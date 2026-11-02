@@ -1,0 +1,1 @@
+window.OCTANE_SUPABASE={url:"https://capfxnfnyobtmyvesvxd.supabase.co",anonKey:"sb_publishable_r0xw_mrqZZXkevpNw1cIXw_tFSdlQCH"};
